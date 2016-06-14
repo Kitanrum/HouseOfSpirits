@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseOfSpirits.CSharp", "HouseOfSpirits.CSharp.csproj", "{C3325921-D25E-F07B-8AF5-6C804003BA62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseOfSpirits.CSharp.Editor", "HouseOfSpirits.CSharp.Editor.csproj", "{E00890E2-0238-0A2E-C3F2-A9D306CEE211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3325921-D25E-F07B-8AF5-6C804003BA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3325921-D25E-F07B-8AF5-6C804003BA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3325921-D25E-F07B-8AF5-6C804003BA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3325921-D25E-F07B-8AF5-6C804003BA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00890E2-0238-0A2E-C3F2-A9D306CEE211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00890E2-0238-0A2E-C3F2-A9D306CEE211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00890E2-0238-0A2E-C3F2-A9D306CEE211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00890E2-0238-0A2E-C3F2-A9D306CEE211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
